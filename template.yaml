@@ -12,6 +12,36 @@ Resources:
       Handler: lambda.lambdaHandler # format is filename.functionName
       Runtime: nodejs12.x
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ApiGatewayFunction:
     Type: AWS::Serverless::Function 
     Properties:
